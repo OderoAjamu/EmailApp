@@ -9,7 +9,7 @@ The email consists of the employees name and department code.The app randomly ge
 for the new employee as well.
 
 ### The Application
-![alt text](https://github.com/OderoAjamu/EmailApp/tree/master/src/images/Terminal.png)
+![Terminal](https://user-images.githubusercontent.com/61224254/79906533-f2a6f980-83e5-11ea-88a2-5318e7079ed1.png)
 
 
 ### Getting Started
