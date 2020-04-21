@@ -1,9 +1,9 @@
 
 
-### Project Title
+# Project Title
 EmailApp
 
-###Desc
+## Desc
 This is an email administration app that generates a company email addresses for new employees. 
 The email consists of the employees name and department code.The app randomly generates a password 
 for the new employee as well.
